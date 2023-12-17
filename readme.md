@@ -1,8 +1,8 @@
 ---
 
-# International Space Locator Website
+# International Space Station Locator Website
 
-This repository contains code for an International Space Locator website that utilizes the International Space Station's API to fetch and display its live location coordinates.
+This repository contains code for an International Space Station Locator website that utilizes the International Space Station's API to fetch and display its live location coordinates.
 
 ## Table of Contents
 
